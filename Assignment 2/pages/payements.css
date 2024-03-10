@@ -1,0 +1,898 @@
+.f0e711fe54e0b9fcac1bd2acb6e7bb-icon2 {
+    height: 90px;
+    width: 337px;
+    position: relative;
+    border-radius: var(--br-6xl);
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .frame-a {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-d-child {
+    align-self: stretch;
+    height: 806px;
+    background-color: var(--color-gainsboro);
+    display: none;
+  }
+  .frame-d-child,
+  .payments,
+  .secure {
+    position: relative;
+    z-index: 1;
+  }
+  .secure {
+    font-size: var(--font-size-16xl);
+  }
+  .payments-text {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .total-amount {
+    position: relative;
+    z-index: 2;
+  }
+  .rectangle-a {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-4xl) 0 0;
+  }
+  .pay-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  .download-4-11 {
+    position: absolute;
+    top: 19px;
+    left: 1143px;
+    width: 60px;
+    height: 52px;
+    object-fit: cover;
+    z-index: 3;
+  }
+  .phone-pe-text {
+    height: 81px;
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 23px;
+    right: 0;
+    left: 0;
+  }
+  .frame-u-p {
+    position: relative;
+    font-size: var(--font-size-56xl);
+    z-index: 2;
+  }
+  .total-amount-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 0 66px 0 var(--padding-xl);
+    position: relative;
+    gap: var(--gap-xl);
+  }
+  .upi {
+    position: relative;
+    z-index: 4;
+  }
+  .input-fields {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+  }
+  .payment-icon {
+    position: absolute;
+    top: 122px;
+    left: 133px;
+    border-radius: 50%;
+    width: 27px;
+    height: 39px;
+    z-index: 5;
+  }
+  .card-image-rectangle-child,
+  .card-image-rectangle-inner,
+  .card-image-rectangle-item {
+    position: absolute;
+    top: 77px;
+    left: 22px;
+    border-radius: 50%;
+    background-color: var(--color-darkblue);
+    width: 52px;
+    height: 52px;
+    z-index: 5;
+  }
+  .card-image-rectangle-inner,
+  .card-image-rectangle-item {
+    top: 205px;
+    background-color: var(--color-black);
+    z-index: 4;
+  }
+  .card-image-rectangle-inner {
+    top: 141px;
+  }
+  .card-image-rectangle {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    right: 0;
+    bottom: 1px;
+    left: 0;
+  }
+  .phonepe {
+    position: relative;
+    z-index: 6;
+  }
+  .payments-text1 {
+    height: 45px;
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 4px;
+    right: 0;
+    left: 0;
+    background-color: var(--color-darkblue);
+    z-index: 4;
+  }
+  .pay {
+    position: relative;
+    z-index: 5;
+  }
+  .secure-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-12xs) 0 0;
+  }
+  .download-button {
+    position: relative;
+    z-index: 5;
+  }
+  .u-p-i-logo {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 0 var(--padding-6xl);
+    position: relative;
+    gap: 0 13px;
+  }
+  .images-container,
+  .payment-method-labels {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .payment-method-labels {
+    flex: 1;
+    flex-direction: column;
+    padding: var(--padding-mini) 0 0;
+    box-sizing: border-box;
+    min-width: 235px;
+    font-size: var(--font-size-11xl);
+    color: var(--color-white);
+  }
+  .images-container {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0 18px;
+  }
+  .gpay {
+    position: relative;
+    color: var(--color-black);
+    z-index: 4;
+    margin-top: -27px;
+  }
+  .wallets-label {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .add-new-upi {
+    position: relative;
+    color: var(--color-black);
+    z-index: 5;
+    margin-top: -27px;
+  }
+  .net-banking-label,
+  .u-p-i-label {
+    width: 559px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .u-p-i-label {
+    width: 725px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    margin-top: -22px;
+    color: var(--color-darkblue);
+  }
+  .g-pay-text,
+  .total-amount-frame-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .g-pay-text {
+    align-items: flex-start;
+    padding: 0 var(--padding-3xl);
+    box-sizing: border-box;
+    position: relative;
+    margin-top: -37px;
+    color: var(--color-black);
+  }
+  .total-amount-frame-parent {
+    align-items: flex-end;
+  }
+  .payment-method-frame-child {
+    align-self: stretch;
+    height: 283px;
+    position: relative;
+    background-color: var(--color-white);
+    display: none;
+    z-index: 1;
+  }
+  .png-clipart-credit-card-atm-ca-icon {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .picture-background {
+    height: 64px;
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs) 0 0;
+    box-sizing: border-box;
+  }
+  .creditdebit-card {
+    position: relative;
+    z-index: 5;
+  }
+  .net-banking-icon {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-9xs);
+  }
+  .net-banking {
+    position: relative;
+    z-index: 4;
+  }
+  .net-banking-label1 {
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .credit-debit-card-icon,
+  .payment-logo-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .payment-logo-frame {
+    flex-direction: row;
+    gap: 0 8px;
+  }
+  .images-1-icon {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    margin: 0 !important;
+    top: -69px;
+    left: calc(50% - 40px);
+    object-fit: cover;
+    z-index: 3;
+  }
+  .images-1-1 {
+    height: 61.9px;
+    width: 60px;
+    position: relative;
+    object-fit: cover;
+    z-index: 4;
+  }
+  .images-area,
+  .images-container1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .images-container1 {
+    flex-direction: row;
+    position: relative;
+  }
+  .images-area {
+    flex-direction: column;
+    padding: var(--padding-12xs) 0 0;
+  }
+  .wallets {
+    position: relative;
+    z-index: 3;
+  }
+  .credit-debit-card-rectangle,
+  .credit-debit-card-rectangle-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .credit-debit-card-rectangle {
+    gap: 0 25px;
+  }
+  .credit-debit-card-rectangle-wrapper {
+    padding: 0 var(--padding-3xs);
+  }
+  .cash-on-delivery-cash-on-deliv-icon {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .cash-on-delivery-frame {
+    height: 73.7px;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-sm) 0 0;
+    box-sizing: border-box;
+  }
+  .cash-on-delivery {
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    z-index: 2;
+  }
+  .frame-div,
+  .thousand-happy-customers-text,
+  .wallets-label1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .thousand-happy-customers-text {
+    flex-direction: row;
+    gap: 0 17px;
+    margin-top: -27px;
+  }
+  .frame-div,
+  .wallets-label1 {
+    flex-direction: column;
+  }
+  .wallets-label1 {
+    flex-direction: row;
+    padding: 0 5px;
+    box-sizing: border-box;
+    margin-top: -26px;
+  }
+  .payment-method-frame {
+    background-color: var(--color-white);
+    padding: 0 var(--padding-10xs);
+    z-index: 1;
+    color: var(--color-black);
+  }
+  .frame-container,
+  .frame-d,
+  .payment-method-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-container {
+    padding: 0 var(--padding-xl) 0 0;
+    gap: 21px 0;
+    margin-top: -33px;
+    font-size: var(--font-size-26xl);
+    color: var(--color-darkblue);
+  }
+  .frame-d {
+    background-color: var(--color-gainsboro);
+    padding: 0 0 var(--padding-13xl) var(--padding-4xl);
+    text-align: left;
+    font-size: var(--font-size-31xl);
+    color: var(--color-black);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .thousand-happy-customer {
+    height: 86px;
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .contact-us-frame {
+    width: 1396px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .f-285446949-evkqwunjpxlwr72oq0-icon1 {
+    height: 177.8px;
+    width: 400px;
+    position: absolute;
+    margin: 0 !important;
+    top: -22.84px;
+    right: 231px;
+    object-fit: cover;
+    z-index: 4;
+  }
+  .payment-area-child {
+    height: 296px;
+    width: 1442px;
+    position: relative;
+    background-color: var(--color-darkslateblue);
+    display: none;
+    max-width: 100%;
+  }
+  .f0e711fe54e0b9fcac1bd2acb6e7bb-icon3 {
+    align-self: stretch;
+    height: 106.8px;
+    position: relative;
+    border-radius: var(--br-6xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .we-sell-everything2 {
+    position: relative;
+    z-index: 1;
+  }
+  .we-sell-text {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 0 var(--padding-18xl);
+  }
+  .credit-debit-area,
+  .net-banking-label2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .net-banking-label2 {
+    align-self: stretch;
+    gap: 20.2px 0;
+  }
+  .credit-debit-area {
+    width: 400px;
+    padding: var(--padding-4xl) 0 0;
+    box-sizing: border-box;
+    min-width: 400px;
+    max-width: 100%;
+  }
+  .contact-us2 {
+    position: relative;
+    z-index: 6;
+  }
+  .let-us-help-frame {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-9xs);
+  }
+  .get-to-know1 {
+    margin: 0;
+  }
+  .get-to-know-container1 {
+    height: 182px;
+    position: relative;
+    display: inline-block;
+    min-width: 305px;
+    z-index: 5;
+  }
+  .aboutuscarrersservices1 {
+    position: relative;
+    z-index: 3;
+  }
+  .pay-label,
+  .rectangle-background {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .rectangle-background {
+    flex: 1;
+    flex-direction: column;
+    padding: var(--padding-mini) 0 0;
+    box-sizing: border-box;
+    min-width: 263px;
+    font-size: var(--font-size-16xl);
+  }
+  .pay-label {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 0 40px;
+  }
+  .let-us-help1 {
+    position: relative;
+    z-index: 1;
+  }
+  .net-banking-image {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xl) 0 0;
+  }
+  .download-5-11 {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .pngtree-calling-telephone-line-icon1 {
+    width: 55px;
+    height: 55px;
+    position: relative;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .call-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .download-icon,
+  .happyshopcom1 {
+    position: relative;
+    z-index: 2;
+  }
+  .download-icon {
+    z-index: 1;
+  }
+  .contact-us3 {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .phone-icon {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .call-button,
+  .credit-card-image,
+  .phone-icon,
+  .wallets-label2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .call-button {
+    flex: 1;
+    flex-direction: column;
+    padding: var(--padding-3xs) 0 0;
+    box-sizing: border-box;
+    min-width: 162px;
+    font-size: var(--font-size-11xl);
+  }
+  .credit-card-image,
+  .wallets-label2 {
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .credit-card-image {
+    flex: 1;
+    gap: 0 24.5px;
+  }
+  .wallets-label2 {
+    width: 608px;
+    padding: 0 var(--padding-sm);
+    box-sizing: border-box;
+    margin-top: -116px;
+  }
+  .phone-pe-label {
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: -17px;
+  }
+  .about-us-link,
+  .contact-us-frame1,
+  .payment-area,
+  .phone-pe-label {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .about-us-link {
+    width: 750px;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-width: 750px;
+    font-size: var(--font-size-26xl);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .contact-us-frame1,
+  .payment-area {
+    flex-direction: row;
+  }
+  .payment-area {
+    flex: 1;
+    background-color: var(--color-darkslateblue);
+    justify-content: space-between;
+    padding: var(--padding-12xl) var(--padding-87xl) 0 var(--padding-60xl);
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--font-size-16xl);
+    color: var(--color-white);
+    font-family: var(--font-cookie);
+  }
+  .contact-us-frame1 {
+    align-self: stretch;
+    justify-content: flex-start;
+    position: relative;
+  }
+  .header-section-frame {
+    align-self: stretch;
+    padding: 0 var(--padding-12xs) 0 0;
+    box-sizing: border-box;
+    gap: 18.06px 0;
+    max-width: 100%;
+    flex-shrink: 0;
+    margin-top: -0.84px;
+    text-align: left;
+    font-size: var(--font-size-26xl);
+    color: var(--color-white);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .frame-c,
+  .header-section-frame,
+  .payements {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-c {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .payements {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkblue);
+    overflow: hidden;
+    padding: var(--padding-lg) 0 0;
+    box-sizing: border-box;
+    gap: 35px 0;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1350px) {
+    .total-amount-frame {
+      padding-right: 33px;
+      box-sizing: border-box;
+    }
+    .about-us-link,
+    .credit-debit-area {
+      flex: 1;
+    }
+    .payment-area {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  @media screen and (max-width: 1150px) {
+    .about-us-link {
+      min-width: 100%;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .payments {
+      font-size: var(--font-size-21xl);
+    }
+    .secure {
+      font-size: var(--font-size-9xl);
+    }
+    .payments-text {
+      flex-wrap: wrap;
+    }
+    .total-amount {
+      font-size: var(--font-size-17xl);
+    }
+    .frame-u-p {
+      font-size: var(--font-size-41xl);
+    }
+    .total-amount-frame {
+      flex-wrap: wrap;
+    }
+    .phonepe,
+    .upi {
+      font-size: var(--font-size-17xl);
+    }
+    .download-button,
+    .pay {
+      font-size: var(--font-size-5xl);
+    }
+    .add-new-upi,
+    .creditdebit-card,
+    .gpay,
+    .net-banking {
+      font-size: var(--font-size-17xl);
+    }
+    .payment-logo-frame {
+      flex-wrap: wrap;
+    }
+    .cash-on-delivery,
+    .wallets {
+      font-size: var(--font-size-17xl);
+    }
+    .thousand-happy-customers-text {
+      flex-wrap: wrap;
+    }
+    .thousand-happy-customer {
+      font-size: var(--font-size-17xl);
+    }
+    .we-sell-everything2 {
+      font-size: var(--font-size-9xl);
+    }
+    .credit-debit-area {
+      min-width: 100%;
+    }
+    .contact-us2,
+    .get-to-know-container1 {
+      font-size: var(--font-size-17xl);
+    }
+    .get-to-know-container1 {
+      flex: 1;
+    }
+    .aboutuscarrersservices1 {
+      font-size: var(--font-size-9xl);
+    }
+    .pay-label {
+      flex-wrap: wrap;
+      gap: 0 20px;
+    }
+    .let-us-help1 {
+      font-size: var(--font-size-17xl);
+    }
+    .download-icon,
+    .happyshopcom1 {
+      font-size: var(--font-size-5xl);
+    }
+    .credit-card-image {
+      flex-wrap: wrap;
+    }
+    .payment-area {
+      padding-left: var(--padding-20xl);
+      padding-right: var(--padding-34xl);
+      box-sizing: border-box;
+    }
+    .payements {
+      gap: 17px 0;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .payments {
+      font-size: var(--font-size-11xl);
+    }
+    .secure {
+      font-size: var(--font-size-2xl);
+    }
+    .total-amount {
+      font-size: var(--font-size-8xl);
+    }
+    .frame-u-p {
+      font-size: var(--font-size-26xl);
+    }
+    .phonepe,
+    .upi {
+      font-size: var(--font-size-8xl);
+    }
+    .download-button,
+    .pay {
+      font-size: var(--font-size-lg);
+    }
+    .u-p-i-logo {
+      flex-wrap: wrap;
+    }
+    .add-new-upi,
+    .cash-on-delivery,
+    .creditdebit-card,
+    .gpay,
+    .net-banking,
+    .thousand-happy-customer,
+    .wallets {
+      font-size: var(--font-size-8xl);
+    }
+    .we-sell-everything2 {
+      font-size: var(--font-size-2xl);
+    }
+    .contact-us2,
+    .get-to-know-container1 {
+      font-size: var(--font-size-8xl);
+    }
+    .aboutuscarrersservices1 {
+      font-size: var(--font-size-2xl);
+    }
+    .let-us-help1 {
+      font-size: var(--font-size-8xl);
+    }
+    .download-icon,
+    .happyshopcom1 {
+      font-size: var(--font-size-lg);
+    }
+    .payment-area {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }

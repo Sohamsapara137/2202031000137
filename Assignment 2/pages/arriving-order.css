@@ -1,0 +1,902 @@
+.f0e711fe54e0b9fcac1bd2acb6e7bb-icon4 {
+    height: 90px;
+    width: 337px;
+    position: relative;
+    border-radius: var(--br-6xl);
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .background-rectangle {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .home1 {
+    position: relative;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .kisspng-font-awesome-computer-icon1 {
+    height: 68px;
+    width: 68px;
+    position: absolute;
+    margin: 0 !important;
+    top: -63.5px;
+    left: -1.9px;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+    z-index: 3;
+  }
+  .frame-download-button {
+    height: 18.9px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+  }
+  .ordered-march-text {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  .download-1-21,
+  .download-2-21,
+  .icon {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    z-index: 3;
+  }
+  .download-2-21 {
+    top: 0;
+    left: 1265px;
+    mix-blend-mode: multiply;
+  }
+  .download-1-21,
+  .icon {
+    top: 3px;
+    left: 1003px;
+  }
+  .download-1-21 {
+    top: 0;
+    left: 681px;
+    height: 66.8px;
+    mix-blend-mode: multiply;
+  }
+  .cart-text {
+    height: 86px;
+    width: 1440px;
+    position: absolute;
+    margin: 0 !important;
+    top: -52.7px;
+    right: -975.6px;
+  }
+  .categories1 {
+    position: relative;
+    white-space: nowrap;
+    z-index: 2;
+  }
+  .out-for-delivery-frame {
+    height: 65px;
+    width: 65px;
+    position: absolute;
+    margin: 0 !important;
+    top: -54.7px;
+    left: 38px;
+    object-fit: cover;
+    z-index: 3;
+  }
+  .account-text,
+  .notification-text {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .account-text {
+    height: 26.8px;
+    flex-direction: row;
+    position: relative;
+  }
+  .notification-text {
+    height: 60px;
+    flex-direction: column;
+    padding: 0 var(--padding-3xs) 0 0;
+    box-sizing: border-box;
+  }
+  .notification1 {
+    position: relative;
+    z-index: 2;
+  }
+  .zebjudwaapic-rectangle {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-4xs) var(--padding-6xl) 0 0;
+  }
+  .account1 {
+    position: relative;
+    z-index: 2;
+  }
+  .customer-details-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-10xs) var(--padding-xs) 0 0;
+  }
+  .cart1 {
+    position: relative;
+    z-index: 2;
+  }
+  .frame-arriving-orders,
+  .frame-housing-icon {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+  }
+  .frame-housing-icon {
+    margin: 0;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: var(--padding-20xl) 116px 0 78px;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--font-size-11xl);
+    color: var(--color-black);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .frame-arriving-orders {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-7xs);
+    box-sizing: border-box;
+    gap: 4px 0;
+    max-width: 100%;
+  }
+  .arriving-at-march,
+  .orders {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+  }
+  .orders {
+    width: 256px;
+    height: 127px;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .arriving-at-march {
+    height: 143px;
+  }
+  .booking-date-label {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    object-fit: cover;
+  }
+  .booking-date-label-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8.664999999999964px 0 0;
+  }
+  .ordered-26-march {
+    margin: 0;
+    height: 85px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .arriving-march-frame {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 23px;
+    max-width: 100%;
+  }
+  .frame {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    background-color: var(--color-gainsboro);
+  }
+  .text-node {
+    height: 62px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xs) 0 0;
+    box-sizing: border-box;
+  }
+  .shipped {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+  }
+  .rectangle1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 23px;
+  }
+  .rotation-arrow {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    background-color: var(--color-gainsboro);
+  }
+  .group-frame {
+    height: 64px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-sm) 0 0;
+    box-sizing: border-box;
+  }
+  .out-for-delivery {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .group-frame-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 23px;
+    max-width: 100%;
+  }
+  .apply-leave {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    background-color: var(--color-gainsboro);
+  }
+  .apply-leave-wrapper {
+    height: 59px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-4xs) 0 0;
+    box-sizing: border-box;
+  }
+  .arriving-march-27 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .frame-parent1,
+  .rectangle-group,
+  .text-node1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 23px;
+    max-width: 100%;
+  }
+  .rectangle-group,
+  .text-node1 {
+    flex-direction: column;
+    gap: 8px 0;
+  }
+  .out-for-delivery-frame1 {
+    flex: 1;
+    flex-direction: column;
+    gap: 23.44px 0;
+  }
+  .arriving-at-march-31-parent,
+  .march-arriving-frame,
+  .ordered-march-text1,
+  .out-for-delivery-frame1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .ordered-march-text1 {
+    width: 660px;
+    flex-direction: row;
+    padding: 0 var(--padding-35xl);
+    box-sizing: border-box;
+    margin-top: -20.32px;
+    font-size: var(--font-size-31xl);
+    color: var(--color-cornflowerblue);
+  }
+  .arriving-at-march-31-parent,
+  .march-arriving-frame {
+    flex-direction: column;
+  }
+  .march-arriving-frame {
+    padding: 0 0 var(--padding-5xs);
+    box-sizing: border-box;
+    min-width: 676px;
+  }
+  .zeb-judwaa541-pic1-3-icon {
+    height: 500px;
+    width: 500px;
+    position: relative;
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .categories-text,
+  .order-frame {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .categories-text {
+    width: 1411px;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 0 0 0 var(--padding-xl);
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+  }
+  .order-frame {
+    align-self: stretch;
+    align-items: flex-start;
+    justify-content: flex-end;
+    margin-top: -28.71px;
+    color: var(--color-white);
+  }
+  .arrival-frame,
+  .thousand-happy-customers-text1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .arrival-frame {
+    flex: 1;
+    flex-direction: column;
+  }
+  .thousand-happy-customers-text1 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-9xs) 47.655000000000655px var(--padding-7xs);
+    box-sizing: border-box;
+    margin-top: -26.66px;
+    text-align: left;
+    font-size: var(--font-size-56xl);
+    color: var(--color-gainsboro);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .f-285446949-evkqwunjpxlwr72oq0-icon2 {
+    width: 400px;
+    height: 177.8px;
+    position: absolute;
+    margin: 0 !important;
+    right: 235px;
+    bottom: 141.2px;
+    object-fit: cover;
+    z-index: 8;
+  }
+  .arrowsrotatesolid {
+    height: 177px;
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 4px;
+    right: 0;
+    left: 0;
+    background-color: var(--color-gainsboro);
+  }
+  .customer-name-soham,
+  .details {
+    position: absolute;
+    top: 35px;
+    left: 0;
+    z-index: 2;
+  }
+  .details {
+    top: 0;
+    left: 7px;
+    z-index: 3;
+  }
+  .oreder-is-prepaid {
+    width: 215px;
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+    z-index: 1;
+  }
+  .quntity-of-order {
+    position: relative;
+    padding-right: var(--padding-5xs);
+    z-index: 2;
+  }
+  .days-reaplacement {
+    position: relative;
+    z-index: 3;
+    margin-top: -18px;
+  }
+  .contact-us-text,
+  .quantity-and-replacement {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .quantity-and-replacement {
+    margin-top: -12px;
+  }
+  .contact-us-text {
+    position: absolute;
+    top: 70px;
+    left: 1px;
+  }
+  .frame-with-text {
+    height: 190px;
+    width: 265px;
+    position: relative;
+  }
+  .thousand-happy-customer1 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .customer-name-details-frame,
+  .pngtree-calling-telephonelinei {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .pngtree-calling-telephonelinei {
+    flex-direction: column;
+    padding: var(--padding-23xl) 0 0;
+    flex-shrink: 0;
+    font-size: var(--font-size-26xl);
+  }
+  .customer-name-details-frame {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 var(--padding-3xs) 17.655000000000655px;
+    position: relative;
+    gap: 0 123px;
+    margin-top: -26.66px;
+    text-align: left;
+    font-size: var(--font-size-6xl);
+    color: var(--color-black);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .we-sell-everything-child {
+    height: 296px;
+    width: 1446px;
+    position: relative;
+    background-color: var(--color-darkslateblue);
+    display: none;
+    max-width: 100%;
+  }
+  .f0e711fe54e0b9fcac1bd2acb6e7bb-icon5 {
+    align-self: stretch;
+    height: 106.8px;
+    position: relative;
+    border-radius: var(--br-6xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    z-index: 5;
+  }
+  .we-sell-everything4 {
+    position: relative;
+    z-index: 5;
+  }
+  .frame-with-qty-and-prepaid-tex {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 0 var(--padding-18xl);
+  }
+  .contact-us-frame2,
+  .home-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .home-text {
+    align-self: stretch;
+    gap: 20.2px 0;
+  }
+  .contact-us-frame2 {
+    width: 400px;
+    padding: var(--padding-4xl) 0 0;
+    box-sizing: border-box;
+    min-width: 400px;
+    max-width: 100%;
+  }
+  .contact-us4 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 10;
+  }
+  .help-frame1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-9xs);
+  }
+  .get-to-know2 {
+    margin: 0;
+  }
+  .get-to-know-container2 {
+    margin: 0;
+    height: 182px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 305px;
+    z-index: 9;
+  }
+  .aboutuscarrersservices2 {
+    position: relative;
+    z-index: 7;
+  }
+  .learn-about-us,
+  .our-story {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .our-story {
+    flex: 1;
+    flex-direction: column;
+    padding: var(--padding-mini) 0 0;
+    box-sizing: border-box;
+    min-width: 263px;
+    font-size: var(--font-size-16xl);
+  }
+  .learn-about-us {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 0 40px;
+  }
+  .let-us-help2 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 5;
+  }
+  .let-us-help-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xl) 0 0;
+  }
+  .download-5-12 {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    object-fit: cover;
+    z-index: 6;
+  }
+  .pngtree-calling-telephone-line-icon2 {
+    width: 55px;
+    height: 55px;
+    position: relative;
+    object-fit: cover;
+    z-index: 5;
+  }
+  .calling-telephone-line-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .happyshopcom2 {
+    position: relative;
+    z-index: 6;
+  }
+  .we-sell-everything5 {
+    position: relative;
+    z-index: 5;
+  }
+  .thousand-happy-customers {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .prepaid-order {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .assistance-request,
+  .order-details,
+  .phone-icon1,
+  .prepaid-order {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .order-details {
+    flex: 1;
+    flex-direction: column;
+    padding: var(--padding-3xs) 0 0;
+    box-sizing: border-box;
+    min-width: 162px;
+    font-size: var(--font-size-11xl);
+  }
+  .assistance-request,
+  .phone-icon1 {
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .phone-icon1 {
+    flex: 1;
+    gap: 0 24.5px;
+  }
+  .assistance-request {
+    width: 608px;
+    padding: 0 var(--padding-sm);
+    box-sizing: border-box;
+    margin-top: -116px;
+  }
+  .contact-info {
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: -17px;
+  }
+  .contact-info,
+  .let-us-help-frame1,
+  .we-sell-everything3 {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .let-us-help-frame1 {
+    width: 750px;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-width: 750px;
+    font-size: var(--font-size-26xl);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .we-sell-everything3 {
+    align-self: stretch;
+    background-color: var(--color-darkslateblue);
+    flex-direction: row;
+    justify-content: space-between;
+    padding: var(--padding-12xl) 110px 0 var(--padding-60xl);
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+    z-index: 4;
+    margin-top: -26.66px;
+    text-align: left;
+    font-size: var(--font-size-16xl);
+    color: var(--color-white);
+    font-family: var(--font-cookie);
+  }
+  .arriving-order {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkblue);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: var(--padding-lg) 0 0;
+    box-sizing: border-box;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1350px) {
+    .march-arriving-frame,
+    .zeb-judwaa541-pic1-3-icon {
+      flex: 1;
+    }
+    .categories-text {
+      flex-wrap: wrap;
+    }
+    .customer-name-details-frame {
+      flex-wrap: wrap;
+      gap: 0 61px;
+    }
+    .contact-us-frame2,
+    .let-us-help-frame1 {
+      flex: 1;
+    }
+    .we-sell-everything3 {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1150px) {
+    .let-us-help-frame1 {
+      min-width: 100%;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .frame-housing-icon {
+      padding-left: var(--padding-20xl);
+      padding-right: 58px;
+      box-sizing: border-box;
+    }
+    .arriving-at-march,
+    .orders {
+      font-size: var(--font-size-41xl);
+    }
+    .ordered-26-march {
+      font-size: var(--font-size-21xl);
+    }
+    .arriving-march-frame {
+      flex-wrap: wrap;
+    }
+    .out-for-delivery,
+    .shipped {
+      font-size: var(--font-size-21xl);
+    }
+    .group-frame-parent {
+      flex-wrap: wrap;
+    }
+    .arriving-march-27 {
+      font-size: var(--font-size-21xl);
+    }
+    .frame-parent1 {
+      flex-wrap: wrap;
+    }
+    .ordered-march-text1 {
+      padding-left: var(--padding-8xl);
+      padding-right: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .march-arriving-frame {
+      min-width: 100%;
+    }
+    .thousand-happy-customers-text1 {
+      padding-bottom: var(--padding-12xl);
+      box-sizing: border-box;
+    }
+    .thousand-happy-customer1 {
+      font-size: var(--font-size-17xl);
+    }
+    .customer-name-details-frame {
+      gap: 0 31px;
+    }
+    .we-sell-everything4 {
+      font-size: var(--font-size-9xl);
+    }
+    .contact-us-frame2 {
+      min-width: 100%;
+    }
+    .contact-us4,
+    .get-to-know-container2 {
+      font-size: var(--font-size-17xl);
+    }
+    .get-to-know-container2 {
+      flex: 1;
+    }
+    .aboutuscarrersservices2 {
+      font-size: var(--font-size-9xl);
+    }
+    .learn-about-us {
+      flex-wrap: wrap;
+      gap: 0 20px;
+    }
+    .let-us-help2 {
+      font-size: var(--font-size-17xl);
+    }
+    .happyshopcom2,
+    .we-sell-everything5 {
+      font-size: var(--font-size-5xl);
+    }
+    .phone-icon1 {
+      flex-wrap: wrap;
+    }
+    .we-sell-everything3 {
+      padding-left: var(--padding-20xl);
+      padding-right: var(--padding-36xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .frame-housing-icon {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .arriving-at-march,
+    .orders {
+      font-size: var(--font-size-26xl);
+    }
+    .arriving-march-27,
+    .ordered-26-march,
+    .out-for-delivery,
+    .shipped {
+      font-size: var(--font-size-11xl);
+    }
+    .customer-name-soham,
+    .days-reaplacement,
+    .details,
+    .oreder-is-prepaid,
+    .quntity-of-order {
+      font-size: var(--font-size-xl);
+    }
+    .thousand-happy-customer1 {
+      font-size: var(--font-size-8xl);
+    }
+    .customer-name-details-frame {
+      gap: 0 15px;
+    }
+    .we-sell-everything4 {
+      font-size: var(--font-size-2xl);
+    }
+    .contact-us4,
+    .get-to-know-container2 {
+      font-size: var(--font-size-8xl);
+    }
+    .aboutuscarrersservices2 {
+      font-size: var(--font-size-2xl);
+    }
+    .let-us-help2 {
+      font-size: var(--font-size-8xl);
+    }
+    .happyshopcom2,
+    .we-sell-everything5 {
+      font-size: var(--font-size-lg);
+    }
+    .we-sell-everything3 {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }

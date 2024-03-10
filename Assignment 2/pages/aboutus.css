@@ -1,0 +1,719 @@
+.f-285446949-evkqwunjpxlwr72oq0-icon {
+    position: absolute;
+    top: 1029px;
+    left: 809px;
+    width: 400px;
+    height: 177.8px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .f0e711fe54e0b9fcac1bd2acb6e7bb-icon {
+    position: absolute;
+    top: 10px;
+    left: 568px;
+    border-radius: var(--br-6xl);
+    width: 337px;
+    height: 90px;
+    object-fit: cover;
+  }
+  .download-2-2 {
+    top: 112px;
+    left: 1271px;
+    width: 60px;
+    height: 60px;
+    mix-blend-mode: multiply;
+  }
+  .download-1-2,
+  .download-2-2,
+  .empty-space-icon {
+    position: absolute;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .download-1-2 {
+    top: 112px;
+    left: 687px;
+    width: 60px;
+    height: 66.8px;
+    mix-blend-mode: multiply;
+  }
+  .empty-space-icon {
+    top: 110px;
+    left: 362px;
+    width: 65px;
+    height: 65px;
+  }
+  .categories,
+  .home {
+    position: relative;
+    z-index: 1;
+  }
+  .categories-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-5xs) 0 0;
+  }
+  .account-frame-child {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 100%;
+  }
+  .second-rectangle-icon {
+    position: absolute;
+    top: 0;
+    left: 1007px;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .account-frame {
+    height: 86px;
+    width: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+  .notification {
+    position: relative;
+    z-index: 1;
+  }
+  .notification-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 9px 25px 0 0;
+  }
+  .account {
+    position: relative;
+    z-index: 1;
+  }
+  .font-awesome-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-10xs) 12px 0 0;
+  }
+  .cart {
+    position: relative;
+    z-index: 1;
+  }
+  .home-cart-frame {
+    position: absolute;
+    top: 115px;
+    left: 2px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 36px 111px 0 82px;
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+    max-width: 100%;
+  }
+  .kisspng-font-awesome-computer-icon {
+    position: absolute;
+    top: 104px;
+    left: 84px;
+    width: 68px;
+    height: 68px;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+    z-index: 2;
+  }
+  .frame-child {
+    height: 809px;
+    width: 1440px;
+    position: relative;
+    background-color: var(--color-gainsboro);
+    display: none;
+    max-width: 100%;
+  }
+  .about-us1 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 4;
+  }
+  .rectangle-parent {
+    align-self: stretch;
+    background-color: var(--color-gainsboro);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 671px 34px;
+    box-sizing: border-box;
+    max-width: 100%;
+    z-index: 3;
+  }
+  .about-us-header-child {
+    width: 1440px;
+    height: 724px;
+    position: relative;
+    background-color: var(--color-black);
+    display: none;
+    max-width: 100%;
+    z-index: 0;
+  }
+  .we-sell-everythging {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 6;
+  }
+  .our-tag-says {
+    position: absolute;
+    margin: 0 !important;
+    bottom: -78.4px;
+    left: -389.8px;
+    font-size: var(--font-size-21xl);
+    z-index: 7;
+  }
+  .categories-title,
+  .we-sell-text {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .categories-title {
+    height: 62.4px;
+    justify-content: flex-start;
+    position: relative;
+  }
+  .we-sell-text {
+    align-self: stretch;
+    height: 141px;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    font-size: var(--font-size-51xl);
+  }
+  .we-promise-that {
+    position: absolute;
+    margin: 0 !important;
+    top: 145px;
+    left: 23px;
+    white-space: pre-wrap;
+    z-index: 8;
+  }
+  .experince-easyfastersecure-a {
+    position: relative;
+    z-index: 6;
+  }
+  .happyshop-was-started {
+    position: absolute;
+    margin: 0 !important;
+    top: -77.6px;
+    right: -540.6px;
+    white-space: pre-wrap;
+    z-index: 7;
+  }
+  .year-established {
+    height: 35.6px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-xl) 0 0;
+    box-sizing: border-box;
+    position: relative;
+    max-width: 100%;
+  }
+  .here-you-will,
+  .our-mission-is {
+    position: relative;
+    z-index: 6;
+  }
+  .mission-frame,
+  .we-help-text {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .we-help-text {
+    flex-direction: row;
+    padding: 0 var(--padding-9xs);
+    box-sizing: border-box;
+  }
+  .mission-frame {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 6px 0;
+  }
+  .f0e711fe54e0b9fcac1bd2acb6e7bb-icon1 {
+    height: 90px;
+    width: 337px;
+    position: relative;
+    border-radius: var(--br-6xl);
+    object-fit: cover;
+    max-width: 100%;
+    z-index: 6;
+  }
+  .we-are-happy {
+    position: relative;
+    z-index: 6;
+  }
+  .account-text {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-5xs);
+  }
+  .our-services-and {
+    position: relative;
+    z-index: 7;
+  }
+  .services-text {
+    height: 40px;
+    flex-direction: row;
+    padding: 0 var(--padding-xl) 0 0;
+    box-sizing: border-box;
+  }
+  .color-palette-rectangle,
+  .contact-frame,
+  .notification-text,
+  .services-text {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .notification-text {
+    flex: 1;
+    flex-direction: column;
+    min-width: 659px;
+  }
+  .color-palette-rectangle,
+  .contact-frame {
+    flex-direction: row;
+  }
+  .color-palette-rectangle {
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 0 25px;
+  }
+  .contact-frame {
+    width: 1384px;
+    padding: 0 var(--padding-9xs);
+    box-sizing: border-box;
+  }
+  .home-cart-frame1 {
+    gap: 33px 0;
+  }
+  .about-us-header,
+  .experience-frame,
+  .home-cart-frame1,
+  .subheader-frame {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .experience-frame {
+    gap: 16px 0;
+    min-height: 415px;
+  }
+  .about-us-header,
+  .subheader-frame {
+    box-sizing: border-box;
+  }
+  .about-us-header {
+    background-color: var(--color-black);
+    padding: 0 11px var(--padding-10xs) 19px;
+    position: relative;
+    gap: 165px 0;
+    z-index: 5;
+    margin-top: -701px;
+    font-size: var(--font-size-21xl);
+    color: var(--color-white);
+  }
+  .subheader-frame {
+    padding: 0 0 0 2px;
+    text-align: left;
+    font-size: var(--font-size-51xl);
+    color: var(--color-black);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .frame-item {
+    height: 296px;
+    width: 1442px;
+    position: relative;
+    background-color: var(--color-darkslateblue);
+    display: none;
+    max-width: 100%;
+  }
+  .f0e711fe54e0b9fcac1bd2acb6e7bb-icon2 {
+    align-self: stretch;
+    height: 106.8px;
+    position: relative;
+    border-radius: var(--br-6xl);
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .we-sell-everything {
+    position: relative;
+    z-index: 1;
+  }
+  .about-us-text {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 0 37px;
+  }
+  .contact-text,
+  .contact-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .contact-text {
+    align-self: stretch;
+    gap: 20.2px 0;
+  }
+  .contact-text-wrapper {
+    width: 400px;
+    padding: 23px 0 0;
+    box-sizing: border-box;
+    min-width: 400px;
+    max-width: 100%;
+  }
+  .contact-us {
+    position: relative;
+    mix-blend-mode: normal;
+    z-index: 1;
+  }
+  .notification-text1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-9xs);
+  }
+  .get-to-know {
+    margin: 0;
+  }
+  .get-to-know-container {
+    height: 182px;
+    position: relative;
+    display: inline-block;
+    min-width: 305px;
+    z-index: 3;
+  }
+  .aboutuscarrersservices {
+    position: relative;
+    z-index: 1;
+  }
+  .aboutuscarrersservices-wrapper,
+  .get-to-know-us-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .aboutuscarrersservices-wrapper {
+    flex: 1;
+    flex-direction: column;
+    padding: 15px 0 0;
+    box-sizing: border-box;
+    min-width: 263px;
+    font-size: var(--font-size-16xl);
+  }
+  .get-to-know-us-parent {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 0 40px;
+  }
+  .let-us-help {
+    position: relative;
+    z-index: 1;
+  }
+  .let-us-help-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xl) 0 0;
+  }
+  .download-5-1,
+  .pngtree-calling-telephone-line-icon {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .pngtree-calling-telephone-line-icon {
+    width: 55px;
+    height: 55px;
+  }
+  .download-button-rectangle {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .company-link,
+  .happyshopcom {
+    position: relative;
+    z-index: 1;
+  }
+  .phone-icon {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--color-white);
+  }
+  .website-title {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .company-logo,
+  .contact-us-frame,
+  .phone-icon-frame,
+  .website-title {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .company-logo {
+    flex: 1;
+    flex-direction: column;
+    padding: 10px 0 0;
+    box-sizing: border-box;
+    min-width: 162px;
+    font-size: var(--font-size-11xl);
+    color: var(--color-gainsboro);
+  }
+  .contact-us-frame,
+  .phone-icon-frame {
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .phone-icon-frame {
+    flex: 1;
+    gap: 0 24.5px;
+  }
+  .contact-us-frame {
+    width: 608px;
+    padding: 0 14px;
+    box-sizing: border-box;
+    margin-top: -116px;
+    color: var(--color-white);
+  }
+  .housing-icon-frame {
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: -17px;
+  }
+  .category-text,
+  .housing-icon-frame,
+  .rectangle-group {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .category-text {
+    width: 750px;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-width: 750px;
+    font-size: var(--font-size-26xl);
+    color: var(--color-gainsboro);
+    font-family: var(--font-baloo-bhaina);
+  }
+  .rectangle-group {
+    align-self: stretch;
+    background-color: var(--color-darkslateblue);
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 31px 108px 0 79px;
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--font-size-16xl);
+    color: var(--color-white);
+    font-family: var(--font-cookie);
+  }
+  .header-frame {
+    position: absolute;
+    top: 217px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .about-us {
+    width: 100%;
+    height: 1348px;
+    position: relative;
+    background-color: #2320b6;
+    overflow: hidden;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: var(--font-size-11xl);
+    color: var(--color-black);
+    font-family: var(--font-baloo-bhaina);
+  }
+  @media screen and (max-width: 1350px) {
+    .category-text,
+    .contact-text-wrapper {
+      flex: 1;
+    }
+    .rectangle-group {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1150px) {
+    .category-text {
+      min-width: 100%;
+    }
+    .about-us {
+      height: auto;
+      min-height: 1348;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .home-cart-frame {
+      display: none;
+      padding-left: 41px;
+      padding-right: 55px;
+      box-sizing: border-box;
+    }
+    .about-us1,
+    .we-sell-everythging {
+      font-size: var(--font-size-37xl);
+    }
+    .experince-easyfastersecure-a,
+    .happyshop-was-started,
+    .here-you-will,
+    .our-mission-is,
+    .our-services-and,
+    .our-tag-says,
+    .we-are-happy,
+    .we-promise-that {
+      font-size: var(--font-size-13xl);
+    }
+    .notification-text {
+      min-width: 100%;
+    }
+    .home-cart-frame1 {
+      gap: 16px 0;
+    }
+    .about-us-header {
+      gap: 82px 0;
+    }
+    .we-sell-everything {
+      font-size: var(--font-size-9xl);
+    }
+    .contact-text-wrapper {
+      min-width: 100%;
+    }
+    .contact-us,
+    .get-to-know-container {
+      font-size: var(--font-size-17xl);
+    }
+    .get-to-know-container {
+      flex: 1;
+    }
+    .aboutuscarrersservices {
+      font-size: var(--font-size-9xl);
+    }
+    .get-to-know-us-parent {
+      flex-wrap: wrap;
+      gap: 0 20px;
+    }
+    .let-us-help {
+      font-size: var(--font-size-17xl);
+    }
+    .company-link,
+    .happyshopcom {
+      font-size: var(--font-size-5xl);
+    }
+    .phone-icon-frame {
+      flex-wrap: wrap;
+    }
+    .rectangle-group {
+      padding-left: 39px;
+      padding-right: 54px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .home-cart-frame {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .about-us1,
+    .we-sell-everythging {
+      font-size: var(--font-size-23xl);
+    }
+    .experince-easyfastersecure-a,
+    .happyshop-was-started,
+    .here-you-will,
+    .our-mission-is,
+    .our-services-and,
+    .our-tag-says,
+    .we-are-happy,
+    .we-promise-that {
+      font-size: var(--font-size-5xl);
+    }
+    .about-us-header {
+      gap: 41px 0;
+    }
+    .we-sell-everything {
+      font-size: var(--font-size-2xl);
+    }
+    .contact-us,
+    .get-to-know-container {
+      font-size: var(--font-size-8xl);
+    }
+    .aboutuscarrersservices {
+      font-size: var(--font-size-2xl);
+    }
+    .let-us-help {
+      font-size: var(--font-size-8xl);
+    }
+    .company-link,
+    .happyshopcom {
+      font-size: var(--font-size-lg);
+    }
+    .rectangle-group {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
